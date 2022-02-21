@@ -4,6 +4,11 @@
 # Sobre o projeto
 DevHouse é uma aplicação onde o usuário pode se cadastrar, cadastrar casas para alugar e também pode alugar alguma casa.
 
+## Layout web
+![Home page](https://github.com/MatheusAndreaza/Assets/blob/master/login.png)
+
+![Minhas Casas](https://github.com/MatheusAndreaza/Assets/blob/master/devHouse02.png)
+
 # Tecnologias utilizadas
 
 - JavaScript
